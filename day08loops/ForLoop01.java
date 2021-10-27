@@ -62,8 +62,7 @@ public class ForLoop01 {
 //			}
 //
 //		}
-		
-		
+
 //		
 //		char ch;
 //		for (int i = 0; i < str.length(); i++) {
@@ -74,21 +73,19 @@ public class ForLoop01 {
 //				System.out.print(ch);
 //			}
 //		}
-		int number=123345556;
-		int ix;
-		int sum=0;
-	for(int i=number; i>0; i=i/10) {
-		ix=i%10;
-		
-		System.out.println(number.toStirng().indexOf);
-		
+//		int number = 123345556;
+//		int ix;
+//		int sum = 0;
+//		for (int i = number; i > 0; i = i / 10) {
+//			ix = i % 10;
+//
+//			//System.out.println(number.toStirng().indexOf);
+//
 //			if ( number.toString().indexOf(ix.toString())==number.toString().lastIndexOf(ix.toString()) ) {
 //				sum=sum+i%10;
 //			}
-		}System.out.println(sum);
-		
-		
-		
+//		}
+//		System.out.println(sum);
 
 	}
 

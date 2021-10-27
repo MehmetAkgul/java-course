@@ -1,3 +1,4 @@
+package day9loops;
 public class day9loops {
 	public static void main(String[] args) {
 
@@ -60,13 +61,13 @@ public class day9loops {
 
 //		6)Type code to find the sum of the digits of an integer
 
-		int sum = 0, number = 493568405;
-
-		for (int i = number; i > 0; i = i / 10) {
-			sum += i % 10;
-		}
-		System.out.print(sum);
-		
+//		int sum = 0, number = 493568405;
+//
+//		for (int i = number; i > 0; i = i / 10) {
+//			sum += i % 10;
+//		}
+//		System.out.print(sum);
+//		
 		
 
 		int sum = 0, number = 493568405;
